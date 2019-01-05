@@ -1,6 +1,0 @@
------ TSP using ACO in Python -----
-
-The code for TSP using ACO is implemented in Python.
-The code can be executed in Python IDE.
-
-- Chamala Ravi Chandrika (16BIT0136)
